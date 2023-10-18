@@ -1,0 +1,3 @@
+﻿  injecter.cpp
+C:\Users\kddc\source\repos\CEproject\injecter\injecter.cpp(87,25): warning C4244: '正在初始化': 將 'LONG_PTR' 轉換為 'DWORD'，由於類型不同，可能導致資料遺失
+  injecter.vcxproj -> C:\Users\kddc\source\repos\CEproject\x64\Debug\injecter.exe

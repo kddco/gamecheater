@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\kddc\source\repos\CEproject\dllCreater2\dllmain.cpp(19,24): warning C4244: '正在初始化': 將 'LONG_PTR' 轉換為 'DWORD'，由於類型不同，可能導致資料遺失
+C:\Users\kddc\source\repos\CEproject\dllCreater2\dllmain.cpp(34,31): warning C4312: '類型轉換': 將 'DWORD' 轉換為較大的 'LPVOID'
+C:\Users\kddc\source\repos\CEproject\dllCreater2\dllmain.cpp(36,31): warning C4312: '類型轉換': 將 'DWORD' 轉換為較大的 'LPVOID'
+C:\Users\kddc\source\repos\CEproject\dllCreater2\dllmain.cpp(38,31): warning C4312: '類型轉換': 將 'DWORD' 轉換為較大的 'LPVOID'
+C:\Users\kddc\source\repos\CEproject\dllCreater2\dllmain.cpp(41,32): warning C4312: '類型轉換': 將 'DWORD' 轉換為較大的 'LPVOID'
+C:\Users\kddc\source\repos\CEproject\dllCreater2\dllmain.cpp(45,39): warning C4312: '類型轉換': 將 'DWORD' 轉換為較大的 'DWORD *'
+C:\Users\kddc\source\repos\CEproject\dllCreater2\dllmain.cpp(48,5): warning C4312: '類型轉換': 將 'DWORD' 轉換為較大的 'DWORD *'
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  dllCreater2.vcxproj -> C:\Users\kddc\source\repos\CEproject\x64\Release\dllCreater2.dll

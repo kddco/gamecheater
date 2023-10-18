@@ -1,0 +1,7 @@
+﻿  CEproject.cpp
+C:\Users\kddc\source\repos\CEproject\CEproject\CEproject.cpp(25,25): warning C4244: '正在初始化': 將 'LONG_PTR' 轉換為 'DWORD'，由於類型不同，可能導致資料遺失
+C:\Users\kddc\source\repos\CEproject\CEproject\CEproject.cpp(52,35): warning C4312: '類型轉換': 將 'DWORD' 轉換為較大的 'LPVOID'
+C:\Users\kddc\source\repos\CEproject\CEproject\CEproject.cpp(55,36): warning C4312: '類型轉換': 將 'DWORD' 轉換為較大的 'LPVOID'
+C:\Users\kddc\source\repos\CEproject\CEproject\CEproject.cpp(58,37): warning C4312: '類型轉換': 將 'DWORD' 轉換為較大的 'LPVOID'
+C:\Users\kddc\source\repos\CEproject\CEproject\CEproject.cpp(70,39): warning C4312: '類型轉換': 將 'DWORD' 轉換為較大的 'LPVOID'
+  CEproject.vcxproj -> C:\Users\kddc\source\repos\CEproject\x64\Debug\CEproject.exe

@@ -1,0 +1,2 @@
+﻿  dllcreater.cpp
+C:\Users\kddc\source\repos\CEproject\dllcreater\dllcreater.cpp(4,10): fatal  error C1083: 無法開啟包含檔案: 'pch.h': No such file or directory

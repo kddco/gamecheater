@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\kddc\source\repos\CEproject\injectgame\dllmain.cpp(19,20): warning C4311: '類型轉換': 指標值由 'HMODULE' 指派至 'DWORD' 時會遭截斷
+C:\Users\kddc\source\repos\CEproject\injectgame\dllmain.cpp(19,20): warning C4302: '類型轉換': 從 'HMODULE' 轉換為 'DWORD'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\kddc\source\repos\CEproject\injectgame\dllmain.cpp(23,39): warning C4312: '類型轉換': 將 'DWORD' 轉換為較大的 'DWORD *'
+C:\Users\kddc\source\repos\CEproject\injectgame\dllmain.cpp(26,5): warning C4312: '類型轉換': 將 'DWORD' 轉換為較大的 'DWORD *'
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  injectgame.vcxproj -> C:\Users\kddc\source\repos\CEproject\x64\Release\injectgame.dll
